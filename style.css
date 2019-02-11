@@ -1,0 +1,56 @@
+.title {
+    text-align: center;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+    padding: 10px;
+    margin: 10px;
+}
+.category {
+background-color: blue;
+display: inline;
+margin: 10px;
+font-size: 15px;
+color: white;
+padding: 5px;
+}
+
+
+.item_title {
+    text-align: center;
+    color: blue;
+    font-weight: bold;
+    
+    
+}
+.item {
+    background: white;
+    width: 150px;
+    height: 150px;
+    padding: 15px;
+    margin: 12px;
+
+}
+
+.item_list_right {
+    border: solid 1px grey;
+    float: right;
+    width: 69%;
+    height: 400px;
+    overflow:auto;
+     
+}
+.item_list_left {
+    border: solid 1px grey;
+    float: left;
+    width: 30%;
+    overflow:auto;
+    height: 400px; 
+}
+.item_list {
+    text-align: center;
+    margin-top: 5px;
+    background-color:lightblue;
+    padding:10px;
+    height:400px;
+}
